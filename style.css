@@ -1,0 +1,29 @@
+.timer {
+      display: flex;
+      gap: 10px;
+      font-family: Arial, sans-serif;
+      justify-content: center;
+      margin-top: 50px;
+    }
+
+    .field {
+      text-align: center;
+      background: #333;
+      color: #fff;
+      padding: 15px 10px;
+      border-radius: 5px;
+      min-width: 60px;
+    }
+
+    .value {
+      font-size: 36px;
+      display: block;
+      font-weight: bold;
+    }
+
+    .label {
+      font-size: 12px;
+      margin-top: 5px;
+      display: block;
+      color: #aaa;
+    }
